@@ -1,7 +1,9 @@
 # Danny-Ma-8-Week-SQL-Challenge
 
-![image](https://user-images.githubusercontent.com/109480769/215588776-e5c52392-1655-4c16-9adf-6deef2649bdd.png)
+In this repository, I have my solutions to the Danny Ma 8 Week SQL Challenge. 
 
-https://8weeksqlchallenge.com/case-study-1/
+Each case study/week is broken down into individual folders containing my SQL queries for each project, including my soluations, as well as insights.
 
-In this repository, I have my answers to the 12 questions posed in Week 1: Danny's Diner of Danny Ma's 8 Week SQL Challenge. I included the link above to the homepage for this challenge.
+To visit the 8 Week SQL Challenge homepage, go to: https://8weeksqlchallenge.com/resources/
+
+Happy SQL-ing!
