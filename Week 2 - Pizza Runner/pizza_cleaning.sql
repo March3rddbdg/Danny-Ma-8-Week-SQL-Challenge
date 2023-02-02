@@ -298,4 +298,7 @@ FROM pizza_recipes;
 SELECT *
 FROM pizza_toppings;
 
+
+-- Data is now sparkling clean in each table. (:
+
   
