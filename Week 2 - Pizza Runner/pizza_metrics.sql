@@ -234,3 +234,7 @@ FROM customer_orders
 GROUP BY 1
 ORDER BY 2 DESC;
 
+-- Wednesday and Saturday had highest volume of pizzas ordered with 5 pizzas ordered each day.
+-- Thursday had 3 pizzas ordered.
+-- Friday had 1 pizza ordered. 
+-- Friay is not a popular day for pizza; not many Friday Night Pizza celebrators out there! 
