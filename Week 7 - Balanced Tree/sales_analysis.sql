@@ -26,8 +26,6 @@ FROM sales
 		ON sales.prod_id = product_details.product_id
 GROUP BY 1;
 
-![image](/Users/daniellegalasso/8WeekSQL/Images/total_sold_pic.png)
-
 
 -- 2. What is the total generated revenue for all products before discounts?
 
