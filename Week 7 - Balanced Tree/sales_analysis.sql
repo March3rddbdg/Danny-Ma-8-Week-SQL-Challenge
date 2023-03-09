@@ -26,6 +26,8 @@ FROM sales
 		ON sales.prod_id = product_details.product_id
 GROUP BY 1;
 
+![image](/Users/daniellegalasso/8WeekSQL/Images/total_sold_pic.png)
+
 
 -- 2. What is the total generated revenue for all products before discounts?
 
@@ -44,6 +46,9 @@ FROM sales
 	INNER JOIN product_details
 		ON sales.prod_id = product_details.product_id
 GROUP BY 1;
+
+
+
 
 -- 3. What is the total discount amount for all products?
 
