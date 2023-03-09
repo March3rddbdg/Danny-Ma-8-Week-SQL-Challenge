@@ -45,7 +45,7 @@ FROM sales
 		ON sales.prod_id = product_details.product_id
 GROUP BY 1;
 
-
+![image](https://user-images.githubusercontent.com/109480769/224089382-e13bd3da-4bbf-40da-ac20-b5dcd4011d9b.png)
 
 
 -- 3. What is the total discount amount for all products?
